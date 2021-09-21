@@ -8,6 +8,13 @@ body {
   
 
 }
+.about-us{
+  padding: 20px;
+  align-items: center;
+  text-align: center;
+  margin-left: 200px;
+  margin-top: -16px;
+}
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
@@ -69,4 +76,11 @@ ul
 ul li span
 {
   color: black;
+}
+
+@media screen and (max-width: 768px) {
+  .about-us{
+    width: 100%;
+  }
+  
 }
