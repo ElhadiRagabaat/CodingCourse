@@ -39,6 +39,7 @@ o Developing and rehabilitating the administrative staff of the Sudanese Center 
 o Contributing to nation building by adopting some humanitarian projects by working jointly with other organizations.
         </Typography>
         <ImageAvatars/>
+        
       </div>
     )
 }
