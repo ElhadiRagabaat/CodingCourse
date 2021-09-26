@@ -102,7 +102,7 @@ export default function CustomizedAccordions() {
             </li>
             </ul>
             <Button onClick={()=>window.open("https://www.w3schools.com/html/html_basic.asp")}   variant="contained">Learn more</Button>   
-            <Button style={{marginLeft:"4px"}} onClick={()=>window.open("https://abuelfateh.com/blog/%D9%85%D8%A7-%D9%87%D9%8A-%D9%84%D8%BA%D8%A9-html-%D9%88%D9%83%D9%8A%D9%81-%D8%AA%D8%B3%D8%AA%D8%AE%D8%AF%D9%85-%D9%81%D9%8A-%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D8%B5%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D9%88%D9%8A%D8%A8/")}   variant="contained">Learn Arabic</Button>                     
+            <Button style={{marginLeft:"4px"}} onClick={()=>window.open("https://docs.google.com/document/d/1erNtDFUf2IJKjNskSk3e9SXkLaLMgW84VvOJd7nUUi8/edit")}   variant="contained">Learn Arabic</Button>                     
 
           </Typography>
         </AccordionDetails>
